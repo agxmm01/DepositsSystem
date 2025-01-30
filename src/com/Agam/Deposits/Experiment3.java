@@ -1,8 +1,6 @@
 package com.Agam.Deposits;
 import java.util.Scanner;
 
-import com.Agam.Deposits.Fixe
-
 public class Experiment3 {
     public static void main(String[] args) {
         int choice;
